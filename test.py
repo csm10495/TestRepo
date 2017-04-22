@@ -10,3 +10,6 @@ def test_fail():
 def test_pass_again():
     print ("Hey there")
     assert 1
+    
+def test_die():
+    assert False
