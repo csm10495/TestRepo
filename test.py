@@ -7,3 +7,6 @@ def test_this():
 def test_fail():
     assert False
     
+def test_pass_again():
+    print ("Hey there")
+    assert 1
