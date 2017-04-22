@@ -12,4 +12,7 @@ def test_pass_again():
     assert 1
     
 def test_die():
+    assert False   
+    
+def test_die2():
     assert False
