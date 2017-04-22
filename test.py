@@ -1,8 +1,9 @@
-
+import pytest
 
 def test_this():
     assert 1
     
+@pytest.mark.xfail
 def test_fail():
     assert False
     
