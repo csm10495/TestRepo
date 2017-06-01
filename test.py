@@ -16,3 +16,7 @@ def test_pass_again():
     
 #def test_die2():
 #    assert False
+
+def test_pass_another():
+    assert True
+
