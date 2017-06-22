@@ -2,3 +2,7 @@
 	path = cGitInfo
 	url = https://github.com/csm10495/cGitInfo
 	branch = master
+[submodule "TestRepo"]
+	path = TestRepo
+	url = https://github.com/csm10495/TestRepo
+	branch = master
