@@ -21,3 +21,6 @@ def test_pass_another():
     assert True
 
 # hey
+
+def test_again():
+    assert True and True
